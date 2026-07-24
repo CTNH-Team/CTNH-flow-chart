@@ -3809,12 +3809,12 @@
             <mxRectangle height="80" width="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v9Zw_YHKlDGjZAsyPYQu-27" parent="v9Zw_YHKlDGjZAsyPYQu-25" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="钢螺杆" vertex="1">
+        <mxCell id="v9Zw_YHKlDGjZAsyPYQu-27" parent="v9Zw_YHKlDGjZAsyPYQu-25" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="钢杆" vertex="1">
           <mxGeometry height="80" width="80" x="80" as="geometry">
             <mxRectangle height="80" width="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v9Zw_YHKlDGjZAsyPYQu-28" parent="v9Zw_YHKlDGjZAsyPYQu-25" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="钢螺杆" vertex="1">
+        <mxCell id="v9Zw_YHKlDGjZAsyPYQu-28" parent="v9Zw_YHKlDGjZAsyPYQu-25" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="扳手" vertex="1">
           <mxGeometry height="80" width="80" x="160" as="geometry">
             <mxRectangle height="80" width="80" as="alternateBounds" />
           </mxGeometry>
@@ -3822,17 +3822,17 @@
         <mxCell id="v9Zw_YHKlDGjZAsyPYQu-29" parent="v9Zw_YHKlDGjZAsyPYQu-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="80" width="240" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="v9Zw_YHKlDGjZAsyPYQu-30" parent="v9Zw_YHKlDGjZAsyPYQu-29" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="扳手" vertex="1">
+        <mxCell id="v9Zw_YHKlDGjZAsyPYQu-30" parent="v9Zw_YHKlDGjZAsyPYQu-29" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="钢齿轮" vertex="1">
           <mxGeometry height="80" width="80" as="geometry">
             <mxRectangle height="80" width="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v9Zw_YHKlDGjZAsyPYQu-31" parent="v9Zw_YHKlDGjZAsyPYQu-29" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="LV电动马达" vertex="1">
+        <mxCell id="v9Zw_YHKlDGjZAsyPYQu-31" parent="v9Zw_YHKlDGjZAsyPYQu-29" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="动力活塞" vertex="1">
           <mxGeometry height="80" width="80" x="80" as="geometry">
             <mxRectangle height="80" width="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v9Zw_YHKlDGjZAsyPYQu-32" parent="v9Zw_YHKlDGjZAsyPYQu-29" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="钢齿轮" vertex="1">
+        <mxCell id="v9Zw_YHKlDGjZAsyPYQu-32" parent="v9Zw_YHKlDGjZAsyPYQu-29" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="LV电动马达" vertex="1">
           <mxGeometry height="80" width="80" x="160" as="geometry">
             <mxRectangle height="80" width="80" as="alternateBounds" />
           </mxGeometry>
@@ -3955,7 +3955,7 @@
             <mxRectangle height="80" width="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v9Zw_YHKlDGjZAsyPYQu-62" parent="v9Zw_YHKlDGjZAsyPYQu-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="钢管道" vertex="1">
+        <mxCell id="v9Zw_YHKlDGjZAsyPYQu-62" parent="v9Zw_YHKlDGjZAsyPYQu-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="动力泵" vertex="1">
           <mxGeometry height="80" width="80" x="80" as="geometry">
             <mxRectangle height="80" width="80" as="alternateBounds" />
           </mxGeometry>
