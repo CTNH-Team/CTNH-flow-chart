@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="第 1 页" id="wbue6hbnNwZZhj_0dkD_">
-    <mxGraphModel dx="1404" dy="2502" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
+    <mxGraphModel dx="2386" dy="3134" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1305,7 +1305,7 @@
         <mxCell id="BimTSkt5NrRpgPhiDMTA-221" edge="1" parent="1" source="BimTSkt5NrRpgPhiDMTA-206" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#000000,#000000);labelBackgroundColor=default;endArrow=classic;" target="BimTSkt5NrRpgPhiDMTA-214">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BimTSkt5NrRpgPhiDMTA-206" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="磁化铁杆" vertex="1">
+        <mxCell id="BimTSkt5NrRpgPhiDMTA-206" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="磁化铁杆&lt;div&gt;磁化钢杆&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="5200" y="-590" as="geometry" />
         </mxCell>
         <mxCell id="BimTSkt5NrRpgPhiDMTA-208" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E6E6E6,#E6E6E6);strokeColor=#36393d;fontColor=light-dark(#000000,#000000);" value="车床" vertex="1">
