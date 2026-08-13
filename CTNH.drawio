@@ -981,7 +981,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BimTSkt5NrRpgPhiDMTA-112" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="燧石" vertex="1">
-          <mxGeometry height="60" width="120" x="880" y="250" as="geometry" />
+          <mxGeometry height="60" width="120" x="790" y="250" as="geometry" />
         </mxCell>
         <mxCell id="BimTSkt5NrRpgPhiDMTA-119" edge="1" parent="1" source="BimTSkt5NrRpgPhiDMTA-113" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#000000,#000000);labelBackgroundColor=default;endArrow=classic;" target="BimTSkt5NrRpgPhiDMTA-116">
           <mxGeometry relative="1" as="geometry" />
