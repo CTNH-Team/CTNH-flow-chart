@@ -4872,7 +4872,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lK3WR1rpnLKa9rvT_lHm" name="矿处">
-    <mxGraphModel dx="2386" dy="1534" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
+    <mxGraphModel dx="1193" dy="767" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5248,22 +5248,22 @@
         <mxCell id="msXecnkxx_GtXmAxojOe-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="电解机" vertex="1">
           <mxGeometry height="60" width="120" x="600" y="1200" as="geometry" />
         </mxCell>
-        <mxCell id="msXecnkxx_GtXmAxojOe-76" edge="1" parent="1" source="msXecnkxx_GtXmAxojOe-78" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;innerLoopWaypoints=1;" target="msXecnkxx_GtXmAxojOe-80">
+        <mxCell id="msXecnkxx_GtXmAxojOe-76" edge="1" parent="1" source="msXecnkxx_GtXmAxojOe-73" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;innerLoopWaypoints=1;" target="msXecnkxx_GtXmAxojOe-80">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="940" y="1070" />
-              <mxPoint x="940" y="1020" />
+              <mxPoint x="790" y="1070" />
+              <mxPoint x="790" y="1020" />
               <mxPoint x="580" y="1020" />
               <mxPoint x="580" y="1150" />
             </Array>
             <mxPoint x="790" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="msXecnkxx_GtXmAxojOe-77" edge="1" parent="1" source="msXecnkxx_GtXmAxojOe-78" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="msXecnkxx_GtXmAxojOe-73">
+        <mxCell id="msXecnkxx_GtXmAxojOe-77" edge="1" parent="1" source="msXecnkxx_GtXmAxojOe-73" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;innerLoopWaypoints=1;" target="msXecnkxx_GtXmAxojOe-73">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="930" y="1070" />
-              <mxPoint x="930" y="1030" />
+              <mxPoint x="780" y="1070" />
+              <mxPoint x="780" y="1030" />
               <mxPoint x="590" y="1030" />
               <mxPoint x="590" y="1070" />
             </Array>
