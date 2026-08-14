@@ -5710,6 +5710,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="XEQvzvaQHHGfhuxOF6KQ-13" edge="1" parent="1" source="XEQvzvaQHHGfhuxOF6KQ-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="XEQvzvaQHHGfhuxOF6KQ-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="720" />
+              <mxPoint x="20" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XEQvzvaQHHGfhuxOF6KQ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="甲烷&lt;div&gt;氨气&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-160" y="690" as="geometry" />
         </mxCell>
@@ -5734,6 +5742,9 @@
         </mxCell>
         <mxCell id="XEQvzvaQHHGfhuxOF6KQ-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="氢氧化钠" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="XEQvzvaQHHGfhuxOF6KQ-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="氢气" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="610" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
