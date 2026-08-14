@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="3">
   <diagram name="第 1 页" id="wbue6hbnNwZZhj_0dkD_">
-    <mxGraphModel dx="823" dy="2129" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
+    <mxGraphModel dx="2386" dy="3134" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5263,7 +5263,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lK3WR1rpnLKa9rvT_lHm" name="矿处">
-    <mxGraphModel dx="1988" dy="1278" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
+    <mxGraphModel dx="1593" dy="767" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5490,8 +5490,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="XEQvzvaQHHGfhuxOF6KQ-8" edge="1" parent="1" source="msXecnkxx_GtXmAxojOe-43" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="XEQvzvaQHHGfhuxOF6KQ-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-10" y="1000" />
+              <mxPoint x="-10" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XEQvzvaQHHGfhuxOF6KQ-11" edge="1" parent="1" source="msXecnkxx_GtXmAxojOe-43" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="msXecnkxx_GtXmAxojOe-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="1000" />
+              <mxPoint x="180" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="msXecnkxx_GtXmAxojOe-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="化学反应釜" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="970" as="geometry" />
+          <mxGeometry height="60" width="120" x="-160" y="970" as="geometry" />
         </mxCell>
         <mxCell id="msXecnkxx_GtXmAxojOe-44" edge="1" parent="1" source="msXecnkxx_GtXmAxojOe-46" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="msXecnkxx_GtXmAxojOe-53">
           <mxGeometry relative="1" as="geometry" />
@@ -5674,6 +5690,50 @@
         </mxCell>
         <mxCell id="msXecnkxx_GtXmAxojOe-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="金电极" vertex="1">
           <mxGeometry height="60" width="120" x="600" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="XEQvzvaQHHGfhuxOF6KQ-2" edge="1" parent="1" source="XEQvzvaQHHGfhuxOF6KQ-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="msXecnkxx_GtXmAxojOe-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEQvzvaQHHGfhuxOF6KQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="氢氰酸" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="XEQvzvaQHHGfhuxOF6KQ-4" edge="1" parent="1" source="XEQvzvaQHHGfhuxOF6KQ-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="XEQvzvaQHHGfhuxOF6KQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEQvzvaQHHGfhuxOF6KQ-7" edge="1" parent="1" source="XEQvzvaQHHGfhuxOF6KQ-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="XEQvzvaQHHGfhuxOF6KQ-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="720" />
+              <mxPoint x="20" y="840" />
+              <mxPoint x="-180" y="840" />
+              <mxPoint x="-180" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XEQvzvaQHHGfhuxOF6KQ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="甲烷&lt;div&gt;氨气&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-160" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="XEQvzvaQHHGfhuxOF6KQ-6" edge="1" parent="1" source="XEQvzvaQHHGfhuxOF6KQ-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="XEQvzvaQHHGfhuxOF6KQ-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-20" y="800" />
+              <mxPoint x="-20" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XEQvzvaQHHGfhuxOF6KQ-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="铂粉" vertex="1">
+          <mxGeometry height="60" width="120" x="-160" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="XEQvzvaQHHGfhuxOF6KQ-10" edge="1" parent="1" source="XEQvzvaQHHGfhuxOF6KQ-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="msXecnkxx_GtXmAxojOe-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="800" />
+              <mxPoint x="170" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XEQvzvaQHHGfhuxOF6KQ-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="氢氧化钠" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="770" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
