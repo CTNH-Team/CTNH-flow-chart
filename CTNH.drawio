@@ -5678,7 +5678,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="msXecnkxx_GtXmAxojOe-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="草酸/硫酸亚铁" vertex="1">
+        <mxCell id="msXecnkxx_GtXmAxojOe-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="硫酸亚铁" vertex="1">
           <mxGeometry height="60" width="120" x="1320" y="1090" as="geometry" />
         </mxCell>
         <mxCell id="msXecnkxx_GtXmAxojOe-72" edge="1" parent="1" source="msXecnkxx_GtXmAxojOe-73" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="msXecnkxx_GtXmAxojOe-78">
