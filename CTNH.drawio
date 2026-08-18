@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="3">
   <diagram name="第 1 页" id="wbue6hbnNwZZhj_0dkD_">
-    <mxGraphModel dx="2139" dy="2696" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
+    <mxGraphModel dx="1832" dy="2502" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4680,7 +4680,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T2KfnRZZX58z_IqNSr74-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="白钨矿粉" vertex="1">
+        <mxCell id="T2KfnRZZX58z_IqNSr74-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="白钨矿粉&lt;div&gt;钨酸锂矿粉&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="11080" y="-110" as="geometry" />
         </mxCell>
         <mxCell id="T2KfnRZZX58z_IqNSr74-21" edge="1" parent="1" source="T2KfnRZZX58z_IqNSr74-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="T2KfnRZZX58z_IqNSr74-19">
@@ -4705,7 +4705,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T2KfnRZZX58z_IqNSr74-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="钨酸锂粉" vertex="1">
+        <mxCell id="T2KfnRZZX58z_IqNSr74-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="钨酸钙/锂粉" vertex="1">
           <mxGeometry height="60" width="120" x="11280" y="-110" as="geometry" />
         </mxCell>
         <mxCell id="T2KfnRZZX58z_IqNSr74-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="磁铁矿粉" vertex="1">
@@ -4787,7 +4787,7 @@
         <mxCell id="a-C-br6U4WVIu6YkcT3b-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFCCFF,#FFCCFF);strokeColor=#000000;fontSize=12;fontStyle=0;fontColor=light-dark(#000000,#000000);" value="EV化学反应釜" vertex="1">
           <mxGeometry height="60" width="120" x="11280" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="a-C-br6U4WVIu6YkcT3b-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="氯化锂" vertex="1">
+        <mxCell id="a-C-br6U4WVIu6YkcT3b-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="氯化钙/锂" vertex="1">
           <mxGeometry height="60" width="120" x="11480" y="-30" as="geometry" />
         </mxCell>
         <mxCell id="a-C-br6U4WVIu6YkcT3b-13" edge="1" parent="1" source="a-C-br6U4WVIu6YkcT3b-11" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="a-C-br6U4WVIu6YkcT3b-12">
