@@ -5299,7 +5299,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lK3WR1rpnLKa9rvT_lHm" name="矿处">
-    <mxGraphModel dx="2939" dy="1896" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
+    <mxGraphModel dx="2632" dy="1702" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6066,13 +6066,13 @@
         <mxCell id="1dXQmoJx7id05F1yLPHI-26" edge="1" parent="1" source="1dXQmoJx7id05F1yLPHI-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="1dXQmoJx7id05F1yLPHI-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1dXQmoJx7id05F1yLPHI-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="氯化钾溶液&lt;div&gt;KCl&lt;/div&gt;" vertex="1">
+        <mxCell id="1dXQmoJx7id05F1yLPHI-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="岩盐水&lt;div&gt;KCl&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="800" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="1dXQmoJx7id05F1yLPHI-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="氢氧化铝&lt;div&gt;3Al(OH)3&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="800" y="-190" as="geometry" />
         </mxCell>
-        <mxCell id="1dXQmoJx7id05F1yLPHI-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="氯化钾&lt;div&gt;KCl&lt;/div&gt;" vertex="1">
+        <mxCell id="1dXQmoJx7id05F1yLPHI-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="岩盐&lt;div&gt;KCl&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="960" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="1dXQmoJx7id05F1yLPHI-16" edge="1" parent="1" source="1dXQmoJx7id05F1yLPHI-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="1dXQmoJx7id05F1yLPHI-2">
