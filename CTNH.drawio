@@ -5299,7 +5299,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lK3WR1rpnLKa9rvT_lHm" name="矿处">
-    <mxGraphModel dx="3634" dy="2334" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
+    <mxGraphModel dx="3228" dy="2078" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6318,7 +6318,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i31J7VkAbhthniwJwhFU-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="交换一次的&lt;div&gt;轻稀土氯化物&lt;div&gt;(CePrNdPm)Cl4&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="i31J7VkAbhthniwJwhFU-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="交换1次的&lt;div&gt;轻稀土氯化物&lt;div&gt;(CePrNdPm)Cl4&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="2960" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="i31J7VkAbhthniwJwhFU-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="氯化镧粉" vertex="1">
@@ -6341,7 +6341,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i31J7VkAbhthniwJwhFU-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="交换一次的&lt;div&gt;轻稀土氯化物&lt;div&gt;(PrNdPm)Cl4&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="i31J7VkAbhthniwJwhFU-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="交换2次的&lt;div&gt;轻稀土氯化物&lt;div&gt;(PrNdPm)Cl4&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="3160" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="i31J7VkAbhthniwJwhFU-50" edge="1" parent="1" source="i31J7VkAbhthniwJwhFU-40" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="i31J7VkAbhthniwJwhFU-41">
@@ -6355,7 +6355,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i31J7VkAbhthniwJwhFU-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="交换一次的&lt;div&gt;轻稀土氯化物&lt;div&gt;(NdPm)Cl4&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="i31J7VkAbhthniwJwhFU-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="交换3次的&lt;div&gt;轻稀土氯化物&lt;div&gt;(NdPm)Cl4&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="3360" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="i31J7VkAbhthniwJwhFU-52" edge="1" parent="1" source="i31J7VkAbhthniwJwhFU-41" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="i31J7VkAbhthniwJwhFU-43">
@@ -6369,10 +6369,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i31J7VkAbhthniwJwhFU-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="交换一次的&lt;div&gt;轻稀土氯化物&lt;div&gt;(Pm)Cl4&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="i31J7VkAbhthniwJwhFU-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="交换4次的&lt;div&gt;轻稀土氯化物&lt;div&gt;(Pm)Cl4&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="3560" y="-270" as="geometry" />
         </mxCell>
-        <mxCell id="i31J7VkAbhthniwJwhFU-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="盐酸&lt;div&gt;4HCl&lt;/div&gt;" vertex="1">
+        <mxCell id="i31J7VkAbhthniwJwhFU-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="盐酸&lt;div&gt;0.5HCl&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="3760" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="i31J7VkAbhthniwJwhFU-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="氯化钕粉" vertex="1">
