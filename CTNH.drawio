@@ -9331,7 +9331,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dEndLrSeLc2DBWmX67dH-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="硼砂酸液&lt;div&gt;2NaCl+4H3BO3&lt;/div&gt;&lt;div&gt;+5H2O&lt;/div&gt;" vertex="1">
+        <mxCell id="dEndLrSeLc2DBWmX67dH-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="硼砂酸溶液&lt;div&gt;2NaCl+4H3BO3&lt;/div&gt;&lt;div&gt;+5H2O&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1360" y="170" as="geometry" />
         </mxCell>
         <mxCell id="dEndLrSeLc2DBWmX67dH-20" edge="1" parent="1" source="dEndLrSeLc2DBWmX67dH-10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="dEndLrSeLc2DBWmX67dH-18">
