@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="3">
   <diagram name="第 1 页" id="wbue6hbnNwZZhj_0dkD_">
-    <mxGraphModel dx="2614" dy="3439" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
+    <mxGraphModel dx="2817" dy="3567" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7817,7 +7817,7 @@
           <mxGeometry height="60" width="120" x="12320" y="1690" as="geometry" />
         </mxCell>
         <mxCell id="0uLZPwplN9Md-iZGnlKN-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="黄铜矿" vertex="1">
-          <mxGeometry height="60" width="120" x="8760" y="540" as="geometry" />
+          <mxGeometry height="60" width="120" x="8700" y="570" as="geometry" />
         </mxCell>
         <mxCell id="0uLZPwplN9Md-iZGnlKN-5" edge="1" parent="1" source="0uLZPwplN9Md-iZGnlKN-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="v9Zw_YHKlDGjZAsyPYQu-170">
           <mxGeometry relative="1" as="geometry" />
@@ -7855,14 +7855,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0uLZPwplN9Md-iZGnlKN-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="8中性赤泥&lt;div&gt;TiO2+(FeCl3)?&lt;/div&gt;&lt;div&gt;+6NaCl+nH2O&lt;/div&gt;" vertex="1">
+        <mxCell id="0uLZPwplN9Md-iZGnlKN-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="8中性赤泥&lt;div&gt;TiO2+(FeCl3)(?)&lt;/div&gt;&lt;div&gt;+6NaCl+nH2O&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="9600" y="290" as="geometry" />
         </mxCell>
         <mxCell id="0uLZPwplN9Md-iZGnlKN-13" edge="1" parent="1" source="0uLZPwplN9Md-iZGnlKN-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="0uLZPwplN9Md-iZGnlKN-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0uLZPwplN9Md-iZGnlKN-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="2赤泥&lt;div&gt;&lt;div&gt;TiO2+(Fe(OH)3)?&lt;/div&gt;&lt;div&gt;+6NaOH+nH2O&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="9440" y="290" as="geometry" />
+        <mxCell id="0uLZPwplN9Md-iZGnlKN-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="2赤泥&lt;div&gt;&lt;div&gt;TiO2+(Fe(OH)3)(?)&lt;/div&gt;&lt;div&gt;+6NaOH+nH2O&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="9400" y="290" as="geometry" />
         </mxCell>
         <mxCell id="0uLZPwplN9Md-iZGnlKN-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="1含稀土氯化铁&lt;div&gt;(FeCl3)(RCl4)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="9760" y="450" as="geometry" />
@@ -7870,15 +7870,15 @@
         <mxCell id="0uLZPwplN9Md-iZGnlKN-14" edge="1" parent="1" source="0uLZPwplN9Md-iZGnlKN-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="0uLZPwplN9Md-iZGnlKN-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="9580" y="400" />
-              <mxPoint x="9580" y="320" />
+              <mxPoint x="9560" y="400" />
+              <mxPoint x="9560" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0uLZPwplN9Md-iZGnlKN-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="9盐酸&lt;div&gt;9HCl&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="9440" y="370" as="geometry" />
+          <mxGeometry height="60" width="120" x="9400" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="0uLZPwplN9Md-iZGnlKN-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="6盐水&lt;div&gt;(NaCl)(H2O)&lt;/div&gt;" vertex="1">
+        <mxCell id="0uLZPwplN9Md-iZGnlKN-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="6盐水&lt;div&gt;NaCl+H2O&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="9760" y="530" as="geometry" />
         </mxCell>
         <mxCell id="68GOL507OKqFFyI9lsVG-2" edge="1" parent="1" source="68GOL507OKqFFyI9lsVG-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="0uLZPwplN9Md-iZGnlKN-8">
@@ -7887,43 +7887,94 @@
         <mxCell id="68GOL507OKqFFyI9lsVG-4" edge="1" parent="1" source="68GOL507OKqFFyI9lsVG-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="68GOL507OKqFFyI9lsVG-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="9420" y="320" />
-              <mxPoint x="9420" y="480" />
+              <mxPoint x="9380" y="320" />
+              <mxPoint x="9380" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="68GOL507OKqFFyI9lsVG-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="6含杂氢氧化铝浊液&lt;div&gt;(TiO2+(Fe(OH)3)?&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+6NaOH)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+&lt;/span&gt;8Al(OH)3+nH2O&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="9280" y="290" as="geometry" />
+        <mxCell id="68GOL507OKqFFyI9lsVG-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="6含杂氢氧化铝浊液&lt;div&gt;(TiO2)(Fe(OH)3)(?)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+6NaOH&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+&lt;/span&gt;8Al(OH)3+nH2O&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="9240" y="290" as="geometry" />
         </mxCell>
         <mxCell id="68GOL507OKqFFyI9lsVG-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="4纯净氢氧化铝浊液&lt;div&gt;8Al(OH)3&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="9440" y="450" as="geometry" />
+          <mxGeometry height="60" width="120" x="9400" y="450" as="geometry" />
         </mxCell>
         <mxCell id="68GOL507OKqFFyI9lsVG-6" edge="1" parent="1" source="68GOL507OKqFFyI9lsVG-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="68GOL507OKqFFyI9lsVG-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="68GOL507OKqFFyI9lsVG-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="6氢氧化钠铝土混合液&lt;div&gt;(TiO2)?4(Al2O3)&lt;/div&gt;&lt;div&gt;+6NaOH+nH2O&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="9120" y="290" as="geometry" />
+        <mxCell id="7ADDPVnQOJpDlKbnE_-o-11" connectable="0" parent="68GOL507OKqFFyI9lsVG-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="x&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4/3&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0095" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="68GOL507OKqFFyI9lsVG-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="8含杂偏铝酸钠溶液&lt;div&gt;(TiO2+Fe(OH)3)?+8NaAl(OH)4&lt;/div&gt;&lt;div&gt;+nH2O&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="9280" y="570" as="geometry" />
+        <mxCell id="68GOL507OKqFFyI9lsVG-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="8氢氧化钠铝土混合液&lt;div&gt;(TiO2)(?)(Al2O3)4&lt;/div&gt;&lt;div&gt;+8NaOH+nH2O&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="9040" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="68GOL507OKqFFyI9lsVG-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="4纯净偏铝酸钠溶液&lt;div&gt;8NaAl(OH)4&lt;/div&gt;&lt;div&gt;+nH2O&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="9440" y="730" as="geometry" />
+        <mxCell id="7ADDPVnQOJpDlKbnE_-o-7" edge="1" parent="1" source="68GOL507OKqFFyI9lsVG-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="68GOL507OKqFFyI9lsVG-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="68GOL507OKqFFyI9lsVG-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="4氢氧化铝浊液&lt;div&gt;8Al(OH)3+4NaOH&lt;/div&gt;&lt;div&gt;+nH2O&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="9600" y="730" as="geometry" />
+        <mxCell id="7ADDPVnQOJpDlKbnE_-o-8" edge="1" parent="1" source="68GOL507OKqFFyI9lsVG-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="68GOL507OKqFFyI9lsVG-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="68GOL507OKqFFyI9lsVG-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="2赤泥&lt;div&gt;&lt;div&gt;TiO2+(Fe(OH)3)?&lt;/div&gt;&lt;div&gt;+nH2O&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="9440" y="570" as="geometry" />
+        <mxCell id="68GOL507OKqFFyI9lsVG-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="4含杂偏铝酸钠溶液&lt;div&gt;(TiO2+Fe(OH)3)?+4NaAl(OH)4&lt;/div&gt;&lt;div&gt;+nH2O&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="9240" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="68GOL507OKqFFyI9lsVG-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="4氢氧化铝浊液&lt;div&gt;4Al(OH)3+4NaOH&lt;/div&gt;&lt;div&gt;+nH2O&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="9400" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="7ADDPVnQOJpDlKbnE_-o-9" edge="1" parent="1" source="68GOL507OKqFFyI9lsVG-11" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="68GOL507OKqFFyI9lsVG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="68GOL507OKqFFyI9lsVG-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="1赤泥&lt;div&gt;&lt;div&gt;TiO2+(Fe(OH)3)?&lt;/div&gt;&lt;div&gt;+nH2O&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="9400" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="7ADDPVnQOJpDlKbnE_-o-10" edge="1" parent="1" source="68GOL507OKqFFyI9lsVG-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="68GOL507OKqFFyI9lsVG-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="68GOL507OKqFFyI9lsVG-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="3盐酸&lt;div&gt;3HCl&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="9440" y="650" as="geometry" />
+          <mxGeometry height="60" width="120" x="9400" y="690" as="geometry" />
         </mxCell>
-        <mxCell id="68GOL507OKqFFyI9lsVG-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="8中性赤泥&lt;div&gt;TiO2+(FeCl3)?&lt;/div&gt;&lt;div&gt;+nH2O&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="9600" y="570" as="geometry" />
+        <mxCell id="68GOL507OKqFFyI9lsVG-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="1中性赤泥&lt;div&gt;TiO2+(FeCl3)?&lt;/div&gt;&lt;div&gt;+nH2O&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="9560" y="610" as="geometry" />
         </mxCell>
-        <mxCell id="68GOL507OKqFFyI9lsVG-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="8氢氧化钠铝土混合液&lt;div&gt;(TiO2)?4(Al2O3)&lt;/div&gt;&lt;div&gt;+8NaOH+nH2O&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="9120" y="570" as="geometry" />
+        <mxCell id="7ADDPVnQOJpDlKbnE_-o-6" edge="1" parent="1" source="68GOL507OKqFFyI9lsVG-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="68GOL507OKqFFyI9lsVG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7ADDPVnQOJpDlKbnE_-o-12" connectable="0" parent="7ADDPVnQOJpDlKbnE_-o-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="x2" vertex="1">
+          <mxGeometry relative="1" x="0.1986" y="-1" as="geometry">
+            <mxPoint x="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68GOL507OKqFFyI9lsVG-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="8氢氧化钠铝土混合液&lt;div&gt;2(TiO2)(?)(Al2O3)2&lt;/div&gt;&lt;div&gt;+8NaOH+nH2O&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="9040" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="68GOL507OKqFFyI9lsVG-16" edge="1" parent="1" source="68GOL507OKqFFyI9lsVG-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="68GOL507OKqFFyI9lsVG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="68GOL507OKqFFyI9lsVG-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="铝土矿&lt;div&gt;(TiO2)(?)(Al2O3)2&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="8880" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="7ADDPVnQOJpDlKbnE_-o-1" edge="1" parent="1" source="68GOL507OKqFFyI9lsVG-17" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="68GOL507OKqFFyI9lsVG-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9020" y="400" />
+              <mxPoint x="9020" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68GOL507OKqFFyI9lsVG-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="8氢氧化钠溶液&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;8(NaOH+H2O)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="8880" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="7ADDPVnQOJpDlKbnE_-o-4" edge="1" parent="1" source="7ADDPVnQOJpDlKbnE_-o-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="68GOL507OKqFFyI9lsVG-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7ADDPVnQOJpDlKbnE_-o-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="铝土矿&lt;div&gt;(TiO2)(?)(Al2O3)2&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="8880" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="7ADDPVnQOJpDlKbnE_-o-5" edge="1" parent="1" source="7ADDPVnQOJpDlKbnE_-o-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="68GOL507OKqFFyI9lsVG-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7ADDPVnQOJpDlKbnE_-o-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="8氢氧化钠溶液&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;8(NaOH+H2O)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="8880" y="690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -8028,7 +8079,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lK3WR1rpnLKa9rvT_lHm" name="矿处">
-    <mxGraphModel dx="2417" dy="1567" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
+    <mxGraphModel dx="2214" dy="1439" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8736,7 +8787,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1dXQmoJx7id05F1yLPHI-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="云母溶液&lt;div&gt;KCl+3AlCl3&lt;/div&gt;&lt;div&gt;+2HF+4H2O&lt;/div&gt;" vertex="1">
+        <mxCell id="1dXQmoJx7id05F1yLPHI-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="云母溶液&lt;div&gt;KCl+3AlCl3&lt;/div&gt;&lt;div&gt;+2HF+nH2O&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="400" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="1dXQmoJx7id05F1yLPHI-13" edge="1" parent="1" source="1dXQmoJx7id05F1yLPHI-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="1dXQmoJx7id05F1yLPHI-2">
@@ -8764,7 +8815,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1dXQmoJx7id05F1yLPHI-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="去氟云母溶液&lt;div&gt;KCl+3AlCl3&lt;/div&gt;" vertex="1">
+        <mxCell id="1dXQmoJx7id05F1yLPHI-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="去氟云母溶液&lt;div&gt;KCl+3AlCl3&lt;/div&gt;&lt;div&gt;+nH2O&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="600" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="1dXQmoJx7id05F1yLPHI-32" edge="1" parent="1" source="1dXQmoJx7id05F1yLPHI-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="1dXQmoJx7id05F1yLPHI-30">
@@ -8795,7 +8846,7 @@
         <mxCell id="1dXQmoJx7id05F1yLPHI-26" edge="1" parent="1" source="1dXQmoJx7id05F1yLPHI-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="1dXQmoJx7id05F1yLPHI-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1dXQmoJx7id05F1yLPHI-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="岩盐水&lt;div&gt;KCl&lt;/div&gt;" vertex="1">
+        <mxCell id="1dXQmoJx7id05F1yLPHI-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="10岩盐水&lt;div&gt;10(KCl+H2O)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="800" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="1dXQmoJx7id05F1yLPHI-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="氢氧化铝&lt;div&gt;3Al(OH)3&lt;/div&gt;" vertex="1">
@@ -8840,7 +8891,7 @@
         <mxCell id="1dXQmoJx7id05F1yLPHI-28" edge="1" parent="1" source="1dXQmoJx7id05F1yLPHI-27" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="1dXQmoJx7id05F1yLPHI-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1dXQmoJx7id05F1yLPHI-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="流体加热器/蒸馏机" vertex="1">
+        <mxCell id="1dXQmoJx7id05F1yLPHI-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="蒸馏室" vertex="1">
           <mxGeometry height="60" width="120" x="800" y="-110" as="geometry" />
         </mxCell>
         <mxCell id="1dXQmoJx7id05F1yLPHI-33" edge="1" parent="1" source="1dXQmoJx7id05F1yLPHI-29" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="1dXQmoJx7id05F1yLPHI-30">
