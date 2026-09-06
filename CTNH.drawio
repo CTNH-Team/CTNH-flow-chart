@@ -7916,7 +7916,7 @@
         <mxCell id="7ADDPVnQOJpDlKbnE_-o-8" edge="1" parent="1" source="68GOL507OKqFFyI9lsVG-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="68GOL507OKqFFyI9lsVG-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="68GOL507OKqFFyI9lsVG-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="4含杂偏铝酸钠溶液&lt;div&gt;(TiO2)(Fe(OH)3)(?)&lt;/div&gt;&lt;div&gt;+4NaAl(OH)4&lt;/div&gt;&lt;div&gt;+nH2O&lt;/div&gt;" vertex="1">
+        <mxCell id="68GOL507OKqFFyI9lsVG-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="4含杂偏铝酸钠溶液&lt;div&gt;(TiO2)(?)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+4NaAl(OH)4&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+nH2O&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="9280" y="650" as="geometry" />
         </mxCell>
         <mxCell id="68GOL507OKqFFyI9lsVG-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="4氢氧化铝浊液&lt;div&gt;4Al(OH)3+4NaOH&lt;/div&gt;&lt;div&gt;+nH2O&lt;/div&gt;" vertex="1">
