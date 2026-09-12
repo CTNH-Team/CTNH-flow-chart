@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="3">
   <diagram name="第 1 页" id="wbue6hbnNwZZhj_0dkD_">
-    <mxGraphModel dx="2817" dy="3567" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
+    <mxGraphModel dx="3032" dy="3702" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2641,6 +2641,9 @@
         <mxCell id="BimTSkt5NrRpgPhiDMTA-458" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#000000;fontColor=light-dark(#000000,#000000);" value="&lt;span&gt;&lt;font&gt;精密&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;集成&lt;/span&gt;&lt;div&gt;电路计算机&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="10640" y="-830" as="geometry" />
         </mxCell>
+        <mxCell id="lH7tpg-XJ7FMCB6QrZ57-5" edge="1" parent="1" source="BimTSkt5NrRpgPhiDMTA-459" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;dashed=1;strokeWidth=4;" target="YMsbw_6EBQ3rwAE0NTpL-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BimTSkt5NrRpgPhiDMTA-459" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFCCFF,#FFCCFF);" value="&lt;span&gt;&lt;font&gt;精密&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;集成&lt;/span&gt;&lt;div&gt;电路主机&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="10920" y="-830" as="geometry" />
         </mxCell>
@@ -4351,6 +4354,9 @@
           <mxGeometry height="80" width="80" as="geometry">
             <mxRectangle height="80" width="80" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lH7tpg-XJ7FMCB6QrZ57-6" edge="1" parent="1" source="v9Zw_YHKlDGjZAsyPYQu-122" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;dashed=1;strokeWidth=4;" target="BimTSkt5NrRpgPhiDMTA-382">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9Zw_YHKlDGjZAsyPYQu-122" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=light-dark(#FFCCFF,#FFCCFF);strokeColor=#000000;fontColor=light-dark(#000000,#000000);" value="钛" vertex="1">
           <mxGeometry height="60" width="120" x="10920" y="-910" as="geometry" />
@@ -7777,10 +7783,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yOx4RPP8WInzo-scEME4-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E6E6E6,#E6E6E6);strokeColor=#36393d;fontSize=20;fontStyle=1;fontColor=light-dark(#000000,#000000);" value="微芯片处理器" vertex="1">
-          <mxGeometry height="60" width="160" x="12640" y="-830" as="geometry" />
+          <mxGeometry height="60" width="160" x="12680" y="-990" as="geometry" />
         </mxCell>
         <mxCell id="yOx4RPP8WInzo-scEME4-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#BD9999,#BD9999);strokeColor=#36393d;fontSize=20;fontStyle=1;fontColor=light-dark(#000000,#000000);gradientColor=none;" value="NAND芯片" vertex="1">
-          <mxGeometry height="60" width="160" x="12400" y="-830" as="geometry" />
+          <mxGeometry height="60" width="160" x="12440" y="-990" as="geometry" />
         </mxCell>
         <mxCell id="yOx4RPP8WInzo-scEME4-15" edge="1" parent="1" source="yOx4RPP8WInzo-scEME4-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="yOx4RPP8WInzo-scEME4-10">
           <mxGeometry relative="1" as="geometry">
