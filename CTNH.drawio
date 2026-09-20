@@ -8605,7 +8605,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="msXecnkxx_GtXmAxojOe-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="氧化镁&lt;div&gt;MgO&lt;/div&gt;" vertex="1">
+        <mxCell id="msXecnkxx_GtXmAxojOe-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="2氧化镁&lt;div&gt;MgO&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="320" y="330" as="geometry" />
         </mxCell>
         <mxCell id="msXecnkxx_GtXmAxojOe-23" edge="1" parent="1" source="msXecnkxx_GtXmAxojOe-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="msXecnkxx_GtXmAxojOe-22">
@@ -8624,7 +8624,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="msXecnkxx_GtXmAxojOe-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="棱镁矿粉&lt;div&gt;MgCO3&lt;/div&gt;" vertex="1">
+        <mxCell id="msXecnkxx_GtXmAxojOe-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="5棱镁矿粉&lt;div&gt;MgCO3&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="120" y="330" as="geometry" />
         </mxCell>
         <mxCell id="msXecnkxx_GtXmAxojOe-25" edge="1" parent="1" source="msXecnkxx_GtXmAxojOe-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="msXecnkxx_GtXmAxojOe-22">
@@ -10457,7 +10457,7 @@
         <mxCell id="k-w1-Nf9WiVmLSnID7gu-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="14硼酸粉&lt;div&gt;2H3BO3&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="2080" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="k-w1-Nf9WiVmLSnID7gu-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="二氧化碳&lt;div&gt;CO2&lt;/div&gt;" vertex="1">
+        <mxCell id="k-w1-Nf9WiVmLSnID7gu-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="1二氧化碳&lt;div&gt;CO2&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="320" y="410" as="geometry" />
         </mxCell>
         <mxCell id="k-w1-Nf9WiVmLSnID7gu-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="6二氧化硅&lt;div&gt;2SiO2&lt;/div&gt;" vertex="1">
