@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="3">
   <diagram name="第 1 页" id="wbue6hbnNwZZhj_0dkD_">
-    <mxGraphModel dx="4643" dy="4718" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
+    <mxGraphModel dx="3032" dy="3702" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2041,13 +2041,13 @@
         <mxCell id="BimTSkt5NrRpgPhiDMTA-347" edge="1" parent="1" source="BimTSkt5NrRpgPhiDMTA-346" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#000000,#000000);labelBackgroundColor=default;endArrow=classic;" target="BimTSkt5NrRpgPhiDMTA-345">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BimTSkt5NrRpgPhiDMTA-346" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="三氧化二铬&lt;div&gt;3Cr2O3&lt;/div&gt;" vertex="1">
+        <mxCell id="BimTSkt5NrRpgPhiDMTA-346" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="5三氧化二铬&lt;div&gt;3Cr2O3&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="8040" y="-110" as="geometry" />
         </mxCell>
         <mxCell id="BimTSkt5NrRpgPhiDMTA-349" edge="1" parent="1" source="BimTSkt5NrRpgPhiDMTA-348" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#000000,#000000);labelBackgroundColor=default;endArrow=classic;" target="BimTSkt5NrRpgPhiDMTA-346">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BimTSkt5NrRpgPhiDMTA-348" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="重铬酸钠&lt;div&gt;3Na2Cr2O7&lt;/div&gt;" vertex="1">
+        <mxCell id="BimTSkt5NrRpgPhiDMTA-348" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="3重铬酸钠&lt;div&gt;3Na2Cr2O7&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="7880" y="-110" as="geometry" />
         </mxCell>
         <mxCell id="BimTSkt5NrRpgPhiDMTA-352" edge="1" parent="1" source="qdy4HjQN5JegAZp7oMAW-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#000000,#000000);labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BimTSkt5NrRpgPhiDMTA-348">
@@ -2069,7 +2069,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BimTSkt5NrRpgPhiDMTA-350" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="铬铁矿&lt;div&gt;3FeCr2O4&lt;/div&gt;" vertex="1">
+        <mxCell id="BimTSkt5NrRpgPhiDMTA-350" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="7铬铁矿&lt;div&gt;3FeCr2O4&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="7240" y="-110" as="geometry" />
         </mxCell>
         <mxCell id="BimTSkt5NrRpgPhiDMTA-353" edge="1" parent="1" source="BimTSkt5NrRpgPhiDMTA-351" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#000000,#000000);labelBackgroundColor=default;endArrow=classic;" target="qdy4HjQN5JegAZp7oMAW-1">
@@ -2080,7 +2080,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BimTSkt5NrRpgPhiDMTA-351" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="碳酸钠溶液&lt;div&gt;6Na2CO3&lt;/div&gt;" vertex="1">
+        <mxCell id="BimTSkt5NrRpgPhiDMTA-351" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="6碳酸钠溶液&lt;div&gt;6Na2CO3&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="7240" y="-30" as="geometry" />
         </mxCell>
         <mxCell id="v9Zw_YHKlDGjZAsyPYQu-123" edge="1" parent="1" source="BimTSkt5NrRpgPhiDMTA-355" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#000000,#000000);labelBackgroundColor=default;jumpStyle=none;endArrow=classic;" target="v9Zw_YHKlDGjZAsyPYQu-122">
@@ -5242,13 +5242,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdy4HjQN5JegAZp7oMAW-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="铬酸钠&lt;div&gt;6Na2CrO4&lt;/div&gt;" vertex="1">
+        <mxCell id="qdy4HjQN5JegAZp7oMAW-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="6铬酸钠&lt;div&gt;6Na2CrO4&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="7480" y="-110" as="geometry" />
         </mxCell>
-        <mxCell id="qdy4HjQN5JegAZp7oMAW-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="磁铁矿&lt;div&gt;1Fe3O4&lt;/div&gt;" vertex="1">
+        <mxCell id="qdy4HjQN5JegAZp7oMAW-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="7磁铁矿&lt;div&gt;1Fe3O4&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="7480" y="-190" as="geometry" />
         </mxCell>
-        <mxCell id="qdy4HjQN5JegAZp7oMAW-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="二氧化碳&lt;div&gt;6CO2&lt;/div&gt;" vertex="1">
+        <mxCell id="qdy4HjQN5JegAZp7oMAW-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="6二氧化碳&lt;div&gt;6CO2&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="7480" y="-30" as="geometry" />
         </mxCell>
         <mxCell id="qdy4HjQN5JegAZp7oMAW-12" edge="1" parent="1" source="qdy4HjQN5JegAZp7oMAW-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="qdy4HjQN5JegAZp7oMAW-1">
@@ -5259,10 +5259,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdy4HjQN5JegAZp7oMAW-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="气态氧&lt;div&gt;10O&lt;/div&gt;" vertex="1">
+        <mxCell id="qdy4HjQN5JegAZp7oMAW-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="10气态氧&lt;div&gt;10O&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="7240" y="-190" as="geometry" />
         </mxCell>
-        <mxCell id="qdy4HjQN5JegAZp7oMAW-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="硫酸钠&lt;div&gt;3Na2SO4&lt;/div&gt;" vertex="1">
+        <mxCell id="qdy4HjQN5JegAZp7oMAW-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="21硫酸钠&lt;div&gt;3Na2SO4&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="7680" y="-30" as="geometry" />
         </mxCell>
         <mxCell id="qdy4HjQN5JegAZp7oMAW-18" edge="1" parent="1" source="qdy4HjQN5JegAZp7oMAW-13" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="BimTSkt5NrRpgPhiDMTA-346">
@@ -5273,7 +5273,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdy4HjQN5JegAZp7oMAW-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="碳粉&lt;div&gt;2C&lt;/div&gt;" vertex="1">
+        <mxCell id="qdy4HjQN5JegAZp7oMAW-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="2碳粉&lt;div&gt;2C&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="7880" y="-30" as="geometry" />
         </mxCell>
         <mxCell id="qdy4HjQN5JegAZp7oMAW-17" edge="1" parent="1" source="qdy4HjQN5JegAZp7oMAW-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-94">
