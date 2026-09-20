@@ -8464,7 +8464,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lK3WR1rpnLKa9rvT_lHm" name="矿处">
-    <mxGraphModel dx="2417" dy="1967" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
+    <mxGraphModel dx="2632" dy="2102" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8485,15 +8485,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="k-w1-Nf9WiVmLSnID7gu-7" edge="1" parent="1" source="msXecnkxx_GtXmAxojOe-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="k-w1-Nf9WiVmLSnID7gu-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="300" y="-120" />
-              <mxPoint x="300" y="-200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="msXecnkxx_GtXmAxojOe-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="8橄榄石粉&lt;div&gt;MgFe(SiO2)2&lt;/div&gt;" vertex="1">
+        <mxCell id="msXecnkxx_GtXmAxojOe-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="16橄榄石粉&lt;div&gt;2MgFe(SiO2)2&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="80" y="-150" as="geometry" />
         </mxCell>
         <mxCell id="msXecnkxx_GtXmAxojOe-4" edge="1" parent="1" source="msXecnkxx_GtXmAxojOe-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#000000,#000000);labelBackgroundColor=default;endArrow=classic;" target="msXecnkxx_GtXmAxojOe-7">
@@ -8504,7 +8496,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="msXecnkxx_GtXmAxojOe-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="5盐酸&lt;div&gt;5HCl&lt;/div&gt;" vertex="1">
+        <mxCell id="msXecnkxx_GtXmAxojOe-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="10盐酸&lt;div&gt;10HCl&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="80" y="-70" as="geometry" />
         </mxCell>
         <mxCell id="msXecnkxx_GtXmAxojOe-6" edge="1" parent="1" source="msXecnkxx_GtXmAxojOe-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#000000,#000000);labelBackgroundColor=default;endArrow=classic;" target="msXecnkxx_GtXmAxojOe-11">
@@ -8526,7 +8518,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="msXecnkxx_GtXmAxojOe-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="1酸浸橄榄石溶液&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;MgCl2+FeCl3&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="msXecnkxx_GtXmAxojOe-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="1酸浸橄榄石溶液&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;MgCl2+FeCl3+nH2O&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="320" y="-150" as="geometry" />
         </mxCell>
         <mxCell id="msXecnkxx_GtXmAxojOe-8" edge="1" parent="1" source="msXecnkxx_GtXmAxojOe-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#000000,#000000);labelBackgroundColor=default;endArrow=classic;" target="msXecnkxx_GtXmAxojOe-11">
@@ -10468,9 +10460,6 @@
         <mxCell id="k-w1-Nf9WiVmLSnID7gu-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="6二氧化硅&lt;div&gt;2SiO2&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="320" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="k-w1-Nf9WiVmLSnID7gu-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="5气态氢&lt;div&gt;5H&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="320" y="-230" as="geometry" />
-        </mxCell>
         <mxCell id="k-w1-Nf9WiVmLSnID7gu-24" edge="1" parent="1" source="k-w1-Nf9WiVmLSnID7gu-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="k-w1-Nf9WiVmLSnID7gu-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -10667,6 +10656,17 @@
         </mxCell>
         <mxCell id="k-w1-Nf9WiVmLSnID7gu-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="3水&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;3H2O&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="800" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="k-w1-Nf9WiVmLSnID7gu-69" edge="1" parent="1" source="k-w1-Nf9WiVmLSnID7gu-68" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="msXecnkxx_GtXmAxojOe-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="-200" />
+              <mxPoint x="240" y="-120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k-w1-Nf9WiVmLSnID7gu-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="5气态氧&lt;div&gt;5O&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="-230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
