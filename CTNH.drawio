@@ -8464,7 +8464,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lK3WR1rpnLKa9rvT_lHm" name="矿处">
-    <mxGraphModel dx="2632" dy="2102" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
+    <mxGraphModel dx="2214" dy="1839" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8491,8 +8491,8 @@
         <mxCell id="msXecnkxx_GtXmAxojOe-4" edge="1" parent="1" source="msXecnkxx_GtXmAxojOe-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#000000,#000000);labelBackgroundColor=default;endArrow=classic;" target="msXecnkxx_GtXmAxojOe-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="-40" />
-              <mxPoint x="240" y="-120" />
+              <mxPoint x="230" y="-40" />
+              <mxPoint x="230" y="-120" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -10660,13 +10660,13 @@
         <mxCell id="k-w1-Nf9WiVmLSnID7gu-69" edge="1" parent="1" source="k-w1-Nf9WiVmLSnID7gu-68" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="msXecnkxx_GtXmAxojOe-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="-200" />
+              <mxPoint x="240" y="40" />
               <mxPoint x="240" y="-120" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="k-w1-Nf9WiVmLSnID7gu-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="5气态氧&lt;div&gt;5O&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="80" y="-230" as="geometry" />
+          <mxGeometry height="60" width="120" x="80" y="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
