@@ -8464,7 +8464,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lK3WR1rpnLKa9rvT_lHm" name="矿处">
-    <mxGraphModel dx="2417" dy="1967" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
+    <mxGraphModel dx="2632" dy="2102" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8653,8 +8653,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="470" y="440" />
-              <mxPoint x="470" y="-40" />
-              <mxPoint x="520" y="-40" />
+              <mxPoint x="470" y="-120" />
             </Array>
           </mxGeometry>
         </mxCell>
