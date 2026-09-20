@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="3">
   <diagram name="第 1 页" id="wbue6hbnNwZZhj_0dkD_">
-    <mxGraphModel dx="4034" dy="4334" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
+    <mxGraphModel dx="3628" dy="4078" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8464,7 +8464,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lK3WR1rpnLKa9rvT_lHm" name="矿处">
-    <mxGraphModel dx="2632" dy="1702" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
+    <mxGraphModel dx="2417" dy="1567" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9158,7 +9158,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1dXQmoJx7id05F1yLPHI-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="云母矿粉&lt;div&gt;KAl3Si3F2O10&lt;/div&gt;" vertex="1">
+        <mxCell id="1dXQmoJx7id05F1yLPHI-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="19云母矿粉&lt;div&gt;KAl3Si3F2O10&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="1dXQmoJx7id05F1yLPHI-19" edge="1" parent="1" source="1dXQmoJx7id05F1yLPHI-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="1dXQmoJx7id05F1yLPHI-6">
@@ -9172,7 +9172,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1dXQmoJx7id05F1yLPHI-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="云母溶液&lt;div&gt;KCl+3AlCl3&lt;/div&gt;&lt;div&gt;+2HF+nH2O&lt;/div&gt;" vertex="1">
+        <mxCell id="1dXQmoJx7id05F1yLPHI-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="1云母溶液&lt;div&gt;KCl+3AlCl3&lt;/div&gt;&lt;div&gt;+2HF+nH2O&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="400" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="1dXQmoJx7id05F1yLPHI-13" edge="1" parent="1" source="1dXQmoJx7id05F1yLPHI-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="1dXQmoJx7id05F1yLPHI-2">
@@ -9183,10 +9183,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1dXQmoJx7id05F1yLPHI-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="盐酸&lt;div&gt;10HCl&lt;/div&gt;" vertex="1">
+        <mxCell id="1dXQmoJx7id05F1yLPHI-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="10盐酸&lt;div&gt;10HCl&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="-190" as="geometry" />
         </mxCell>
-        <mxCell id="1dXQmoJx7id05F1yLPHI-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="二氧化硅&lt;div&gt;3SiO2&lt;/div&gt;" vertex="1">
+        <mxCell id="1dXQmoJx7id05F1yLPHI-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="9二氧化硅&lt;div&gt;3SiO2&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="400" y="-190" as="geometry" />
         </mxCell>
         <mxCell id="1dXQmoJx7id05F1yLPHI-21" edge="1" parent="1" source="1dXQmoJx7id05F1yLPHI-6" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="1dXQmoJx7id05F1yLPHI-9">
@@ -9200,7 +9200,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1dXQmoJx7id05F1yLPHI-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="去氟云母溶液&lt;div&gt;KCl+3AlCl3&lt;/div&gt;&lt;div&gt;+nH2O&lt;/div&gt;" vertex="1">
+        <mxCell id="1dXQmoJx7id05F1yLPHI-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="1去氟云母溶液&lt;div&gt;KCl+3AlCl3&lt;/div&gt;&lt;div&gt;+nH2O&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="600" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="1dXQmoJx7id05F1yLPHI-32" edge="1" parent="1" source="1dXQmoJx7id05F1yLPHI-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="1dXQmoJx7id05F1yLPHI-30">
@@ -9214,7 +9214,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1dXQmoJx7id05F1yLPHI-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="氢氟酸&lt;div&gt;2HF&lt;/div&gt;" vertex="1">
+        <mxCell id="1dXQmoJx7id05F1yLPHI-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="2氢氟酸&lt;div&gt;2HF&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="600" y="-430" as="geometry" />
         </mxCell>
         <mxCell id="1dXQmoJx7id05F1yLPHI-22" edge="1" parent="1" source="1dXQmoJx7id05F1yLPHI-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="1dXQmoJx7id05F1yLPHI-9">
@@ -9225,7 +9225,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1dXQmoJx7id05F1yLPHI-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="氢氧化钾&lt;div&gt;9KOH&lt;/div&gt;" vertex="1">
+        <mxCell id="1dXQmoJx7id05F1yLPHI-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="27氢氧化钾&lt;div&gt;9KOH&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="600" y="-190" as="geometry" />
         </mxCell>
         <mxCell id="1dXQmoJx7id05F1yLPHI-26" edge="1" parent="1" source="1dXQmoJx7id05F1yLPHI-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="1dXQmoJx7id05F1yLPHI-11">
@@ -9234,10 +9234,10 @@
         <mxCell id="1dXQmoJx7id05F1yLPHI-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="10岩盐水&lt;div&gt;10(KCl+H2O)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="800" y="-270" as="geometry" />
         </mxCell>
-        <mxCell id="1dXQmoJx7id05F1yLPHI-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="氢氧化铝&lt;div&gt;3Al(OH)3&lt;/div&gt;" vertex="1">
+        <mxCell id="1dXQmoJx7id05F1yLPHI-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="21氢氧化铝&lt;div&gt;3Al(OH)3&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="800" y="-190" as="geometry" />
         </mxCell>
-        <mxCell id="1dXQmoJx7id05F1yLPHI-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="岩盐&lt;div&gt;KCl&lt;/div&gt;" vertex="1">
+        <mxCell id="1dXQmoJx7id05F1yLPHI-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="10岩盐&lt;div&gt;KCl&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="960" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="1dXQmoJx7id05F1yLPHI-16" edge="1" parent="1" source="1dXQmoJx7id05F1yLPHI-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="1dXQmoJx7id05F1yLPHI-2">
@@ -9840,7 +9840,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dEndLrSeLc2DBWmX67dH-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="盐酸&lt;div&gt;2HCl&lt;/div&gt;" vertex="1">
+        <mxCell id="dEndLrSeLc2DBWmX67dH-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="2盐酸&lt;div&gt;2HCl&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1200" y="250" as="geometry" />
         </mxCell>
         <mxCell id="dEndLrSeLc2DBWmX67dH-8" edge="1" parent="1" source="dEndLrSeLc2DBWmX67dH-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="dEndLrSeLc2DBWmX67dH-5">
@@ -9854,14 +9854,6 @@
         <mxCell id="dEndLrSeLc2DBWmX67dH-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="化学浸洗机" vertex="1">
           <mxGeometry height="60" width="120" x="1200" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="dEndLrSeLc2DBWmX67dH-13" edge="1" parent="1" source="dEndLrSeLc2DBWmX67dH-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="dEndLrSeLc2DBWmX67dH-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1530" y="200" />
-              <mxPoint x="1530" y="40" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dEndLrSeLc2DBWmX67dH-14" edge="1" parent="1" source="dEndLrSeLc2DBWmX67dH-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="dEndLrSeLc2DBWmX67dH-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -9873,28 +9865,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dEndLrSeLc2DBWmX67dH-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="硼砂酸溶液&lt;div&gt;2NaCl+4H3BO3&lt;/div&gt;&lt;div&gt;+5H2O&lt;/div&gt;" vertex="1">
+        <mxCell id="dEndLrSeLc2DBWmX67dH-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="1硼砂酸溶液&lt;div&gt;2NaCl+4H3BO3&lt;/div&gt;&lt;div&gt;+nH2O&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1360" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="dEndLrSeLc2DBWmX67dH-20" edge="1" parent="1" source="dEndLrSeLc2DBWmX67dH-10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="dEndLrSeLc2DBWmX67dH-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dEndLrSeLc2DBWmX67dH-21" edge="1" parent="1" source="dEndLrSeLc2DBWmX67dH-10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="dEndLrSeLc2DBWmX67dH-19">
+        <mxCell id="dEndLrSeLc2DBWmX67dH-20" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="dEndLrSeLc2DBWmX67dH-18">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1740" y="200" />
-              <mxPoint x="1740" y="120" />
-            </Array>
+            <mxPoint x="1840.0000000000005" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dEndLrSeLc2DBWmX67dH-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="硼酸粉&lt;div&gt;4H3BO3&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="dEndLrSeLc2DBWmX67dH-21" edge="1" parent="1" source="k-w1-Nf9WiVmLSnID7gu-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="dEndLrSeLc2DBWmX67dH-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1900" y="200" />
+              <mxPoint x="1900" y="120" />
+            </Array>
+            <mxPoint x="1840.0000000000005" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dEndLrSeLc2DBWmX67dH-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="28硼酸粉&lt;div&gt;4H3BO3&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1560" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="dEndLrSeLc2DBWmX67dH-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="盐水&lt;div&gt;2(NaCl&lt;span style=&quot;background-color: transparent;&quot;&gt;+H2O)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="dEndLrSeLc2DBWmX67dH-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="2盐水&lt;div&gt;2(NaCl&lt;span style=&quot;background-color: transparent;&quot;&gt;+H2O)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1560" y="90" as="geometry" />
-        </mxCell>
-        <mxCell id="dEndLrSeLc2DBWmX67dH-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="水&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;3H2O&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1560" y="10" as="geometry" />
         </mxCell>
         <mxCell id="dEndLrSeLc2DBWmX67dH-17" edge="1" parent="1" source="dEndLrSeLc2DBWmX67dH-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="dEndLrSeLc2DBWmX67dH-10">
           <mxGeometry relative="1" as="geometry">
@@ -9913,53 +9905,52 @@
         <mxCell id="dEndLrSeLc2DBWmX67dH-29" edge="1" parent="1" source="dEndLrSeLc2DBWmX67dH-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="dEndLrSeLc2DBWmX67dH-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1940" y="200" />
-              <mxPoint x="1940" y="280" />
+              <mxPoint x="2100" y="200" />
+              <mxPoint x="2100" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dEndLrSeLc2DBWmX67dH-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="三氧化二硼&lt;div&gt;2B2O3&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1760" y="170" as="geometry" />
+        <mxCell id="dEndLrSeLc2DBWmX67dH-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="5三氧化二硼&lt;div&gt;B2O3&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1920" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="dEndLrSeLc2DBWmX67dH-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="水&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;2H2O&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1760" y="90" as="geometry" />
+        <mxCell id="dEndLrSeLc2DBWmX67dH-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="3水&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;3H2O&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1920" y="90" as="geometry" />
         </mxCell>
         <mxCell id="dEndLrSeLc2DBWmX67dH-23" edge="1" parent="1" source="dEndLrSeLc2DBWmX67dH-22" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="dEndLrSeLc2DBWmX67dH-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1680" y="360" />
-              <mxPoint x="1700" y="360" />
-              <mxPoint x="1700" y="200" />
+              <mxPoint x="1860" y="360" />
+              <mxPoint x="1860" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dEndLrSeLc2DBWmX67dH-30" edge="1" parent="1" source="dEndLrSeLc2DBWmX67dH-22" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="dEndLrSeLc2DBWmX67dH-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1910" y="360" />
-              <mxPoint x="1910" y="200" />
+              <mxPoint x="2070" y="360" />
+              <mxPoint x="2070" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dEndLrSeLc2DBWmX67dH-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#CCFF99,#CCFF99);strokeColor=#36393d;fontColor=light-dark(#000000,#000000);" value="电力高炉" vertex="1">
-          <mxGeometry height="60" width="120" x="1560" y="330" as="geometry" />
+          <mxGeometry height="60" width="120" x="1720" y="330" as="geometry" />
         </mxCell>
         <mxCell id="dEndLrSeLc2DBWmX67dH-28" edge="1" parent="1" source="dEndLrSeLc2DBWmX67dH-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="dEndLrSeLc2DBWmX67dH-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1900" y="280" />
-              <mxPoint x="1900" y="200" />
+              <mxPoint x="2060" y="280" />
+              <mxPoint x="2060" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dEndLrSeLc2DBWmX67dH-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="镁粉&lt;div&gt;6Mg&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1760" y="250" as="geometry" />
+        <mxCell id="dEndLrSeLc2DBWmX67dH-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="3镁粉&lt;div&gt;3Mg&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1920" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="dEndLrSeLc2DBWmX67dH-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="硼粉&lt;div&gt;4B&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1960" y="170" as="geometry" />
+        <mxCell id="dEndLrSeLc2DBWmX67dH-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="2硼粉&lt;div&gt;2B&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="2120" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="dEndLrSeLc2DBWmX67dH-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="氧化镁粉&lt;div&gt;6MgO&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1960" y="250" as="geometry" />
+        <mxCell id="dEndLrSeLc2DBWmX67dH-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="6氧化镁粉&lt;div&gt;3MgO&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="2120" y="250" as="geometry" />
         </mxCell>
         <mxCell id="AW_IHHe4CBXXltxw-Y-I-106" edge="1" parent="1" source="AW_IHHe4CBXXltxw-Y-I-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="AW_IHHe4CBXXltxw-Y-I-2">
           <mxGeometry relative="1" as="geometry" />
@@ -10388,6 +10379,9 @@
         </mxCell>
         <mxCell id="AW_IHHe4CBXXltxw-Y-I-104" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="密陀僧&lt;div&gt;PbO2&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="2960" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="k-w1-Nf9WiVmLSnID7gu-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="14硼酸粉&lt;div&gt;2H3BO3&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1720" y="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
