@@ -8594,7 +8594,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="msXecnkxx_GtXmAxojOe-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="电解机" vertex="1">
+        <mxCell id="msXecnkxx_GtXmAxojOe-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="EV电解机" vertex="1">
           <mxGeometry height="60" width="120" x="960" y="170" as="geometry" />
         </mxCell>
         <mxCell id="k-w1-Nf9WiVmLSnID7gu-15" edge="1" parent="1" source="msXecnkxx_GtXmAxojOe-22" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="k-w1-Nf9WiVmLSnID7gu-13">
@@ -10541,6 +10541,26 @@
         </mxCell>
         <mxCell id="k-w1-Nf9WiVmLSnID7gu-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="4盐粉&lt;div&gt;2NaCl&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1160" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="k-w1-Nf9WiVmLSnID7gu-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="镁粉" vertex="1">
+          <mxGeometry height="60" width="120" x="1160" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="k-w1-Nf9WiVmLSnID7gu-38" edge="1" parent="1" source="k-w1-Nf9WiVmLSnID7gu-39" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#000000,#000000);labelBackgroundColor=default;endArrow=classic;" target="k-w1-Nf9WiVmLSnID7gu-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1100" y="40" />
+              <mxPoint x="1100" y="-40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k-w1-Nf9WiVmLSnID7gu-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="IV电解机" vertex="1">
+          <mxGeometry height="60" width="120" x="960" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="k-w1-Nf9WiVmLSnID7gu-40" edge="1" parent="1" source="k-w1-Nf9WiVmLSnID7gu-41" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="k-w1-Nf9WiVmLSnID7gu-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k-w1-Nf9WiVmLSnID7gu-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="氧化镁" vertex="1">
+          <mxGeometry height="60" width="120" x="960" y="-70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
