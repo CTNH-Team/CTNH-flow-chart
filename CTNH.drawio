@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" pages="3">
   <diagram name="第 1 页" id="wbue6hbnNwZZhj_0dkD_">
-    <mxGraphModel dx="3628" dy="4078" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
+    <mxGraphModel dx="6468" dy="5868" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6mg0AaQRJ3kBf69b9TB7-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;fillColor=light-dark(#3399FF,#3399FF);" value="" vertex="1">
+          <mxGeometry height="1760" width="2680" x="13680" y="-1280" as="geometry" />
+        </mxCell>
         <mxCell id="a-C-br6U4WVIu6YkcT3b-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;fillColor=light-dark(#FFCCFF,#FFCCFF);" value="" vertex="1">
           <mxGeometry height="1760" width="2680" x="11000" y="-1280" as="geometry" />
         </mxCell>
@@ -2999,8 +3002,8 @@
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-17" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#000000,#000000);labelBackgroundColor=default;endArrow=classic;strokeWidth=4;" target="BimTSkt5NrRpgPhiDMTA-459">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="10840" y="-520" />
-              <mxPoint x="10840" y="-800" />
+              <mxPoint x="10820" y="-520" />
+              <mxPoint x="10820" y="-800" />
             </Array>
             <mxPoint x="10120" y="-520" as="sourcePoint" />
           </mxGeometry>
@@ -3761,8 +3764,24 @@
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-215" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-211" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#000000,#000000);labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-214">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6mg0AaQRJ3kBf69b9TB7-59" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-211" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="6mg0AaQRJ3kBf69b9TB7-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10140" y="-360" />
+              <mxPoint x="10140" y="-960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-211" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="LPIC芯片" vertex="1">
           <mxGeometry height="60" width="120" x="10000" y="-390" as="geometry" />
+        </mxCell>
+        <mxCell id="6mg0AaQRJ3kBf69b9TB7-57" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-214" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#000000,#000000);labelBackgroundColor=default;endArrow=classic;strokeWidth=4;" target="v9Zw_YHKlDGjZAsyPYQu-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10840" y="-360" />
+              <mxPoint x="10840" y="-880" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-214" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="HV能源舱" vertex="1">
           <mxGeometry height="60" width="120" x="10200" y="-390" as="geometry" />
@@ -8488,6 +8507,37 @@
         </mxCell>
         <mxCell id="6mg0AaQRJ3kBf69b9TB7-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#CCE5FF,#CCE5FF);strokeColor=#36393d;fontSize=20;fontStyle=1;fontColor=light-dark(#000000,#000000);" value="&lt;span&gt;&lt;font&gt;MV&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="7360" y="-990" as="geometry" />
+        </mxCell>
+        <mxCell id="6mg0AaQRJ3kBf69b9TB7-54" edge="1" parent="1" source="6mg0AaQRJ3kBf69b9TB7-53" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#000000,#000000);labelBackgroundColor=default;endArrow=classic;strokeWidth=4;" target="v9Zw_YHKlDGjZAsyPYQu-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10860" y="-200" />
+              <mxPoint x="10860" y="-880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6mg0AaQRJ3kBf69b9TB7-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#CCE5FF,#CCE5FF);strokeColor=#36393d;fontColor=light-dark(#000000,#000000);" value="真空冷冻机" vertex="1">
+          <mxGeometry height="60" width="120" x="10200" y="-230" as="geometry" />
+        </mxCell>
+        <mxCell id="6mg0AaQRJ3kBf69b9TB7-56" edge="1" parent="1" source="6mg0AaQRJ3kBf69b9TB7-55" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#000000,#000000);labelBackgroundColor=default;endArrow=classic;strokeWidth=4;" target="v9Zw_YHKlDGjZAsyPYQu-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10850" y="-280" />
+              <mxPoint x="10850" y="-880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6mg0AaQRJ3kBf69b9TB7-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#CCFF99,#CCFF99);strokeColor=#36393d;fontColor=light-dark(#000000,#000000);" value="电力高炉" vertex="1">
+          <mxGeometry height="60" width="120" x="10200" y="-310" as="geometry" />
+        </mxCell>
+        <mxCell id="6mg0AaQRJ3kBf69b9TB7-61" edge="1" parent="1" source="6mg0AaQRJ3kBf69b9TB7-58" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="6mg0AaQRJ3kBf69b9TB7-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6mg0AaQRJ3kBf69b9TB7-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="HV动力舱" vertex="1">
+          <mxGeometry height="60" width="120" x="10200" y="-990" as="geometry" />
+        </mxCell>
+        <mxCell id="6mg0AaQRJ3kBf69b9TB7-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#000000;fontColor=light-dark(#000000,#000000);" value="HV" vertex="1">
+          <mxGeometry height="60" width="120" x="10360" y="-990" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
