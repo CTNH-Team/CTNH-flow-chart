@@ -9052,7 +9052,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lK3WR1rpnLKa9rvT_lHm" name="矿处">
-    <mxGraphModel dx="2017" dy="1967" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
+    <mxGraphModel dx="2232" dy="2102" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#CCFFCC,#CCFFCC)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11223,8 +11223,8 @@
         <mxCell id="16Y27A0EE9wOjFaD9LP5-36" edge="1" parent="1" source="v-FhjIUKBjCnTM6nBHAr-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="16Y27A0EE9wOjFaD9LP5-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-100" y="2200" />
-              <mxPoint x="-100" y="2280" />
+              <mxPoint x="-110" y="2200" />
+              <mxPoint x="-110" y="2360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -11233,6 +11233,14 @@
             <Array as="points">
               <mxPoint x="-100" y="2200" />
               <mxPoint x="-100" y="2120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-75" edge="1" parent="1" source="v-FhjIUKBjCnTM6nBHAr-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="16Y27A0EE9wOjFaD9LP5-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-100" y="2200" />
+              <mxPoint x="-100" y="2280" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -11465,7 +11473,7 @@
           <mxGeometry height="60" width="120" x="-80" y="2170" as="geometry" />
         </mxCell>
         <mxCell id="16Y27A0EE9wOjFaD9LP5-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="&lt;div&gt;1稀土氯化物&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="-80" y="2250" as="geometry" />
+          <mxGeometry height="60" width="120" x="-80" y="2330" as="geometry" />
         </mxCell>
         <mxCell id="16Y27A0EE9wOjFaD9LP5-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="&lt;div&gt;1铂系矿泥&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="120" y="2250" as="geometry" />
@@ -11473,13 +11481,24 @@
         <mxCell id="16Y27A0EE9wOjFaD9LP5-42" edge="1" parent="1" source="16Y27A0EE9wOjFaD9LP5-39" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="16Y27A0EE9wOjFaD9LP5-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="60" y="2360" />
+              <mxPoint x="60" y="2440" />
               <mxPoint x="60" y="2200" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="16Y27A0EE9wOjFaD9LP5-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="12硝酸" vertex="1">
-          <mxGeometry height="60" width="120" x="-80" y="2330" as="geometry" />
+          <mxGeometry height="60" width="120" x="-80" y="2410" as="geometry" />
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-52" edge="1" parent="1" source="16Y27A0EE9wOjFaD9LP5-40" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="16Y27A0EE9wOjFaD9LP5-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-56" edge="1" parent="1" source="16Y27A0EE9wOjFaD9LP5-40" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="16Y27A0EE9wOjFaD9LP5-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="2200" />
+              <mxPoint x="300" y="2120" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="16Y27A0EE9wOjFaD9LP5-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="1&lt;span style=&quot;background-color: transparent;&quot;&gt;铀乏燃料硝化物&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="120" y="2170" as="geometry" />
@@ -11492,6 +11511,120 @@
         </mxCell>
         <mxCell id="16Y27A0EE9wOjFaD9LP5-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="8气态氯" vertex="1">
           <mxGeometry height="60" width="120" x="120" y="2010" as="geometry" />
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-58" edge="1" parent="1" source="16Y27A0EE9wOjFaD9LP5-51" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="16Y27A0EE9wOjFaD9LP5-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-62" edge="1" parent="1" source="16Y27A0EE9wOjFaD9LP5-51" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="16Y27A0EE9wOjFaD9LP5-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="2200" />
+              <mxPoint x="500" y="2120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-77" edge="1" parent="1" source="16Y27A0EE9wOjFaD9LP5-51" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="16Y27A0EE9wOjFaD9LP5-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="2200" />
+              <mxPoint x="500" y="2280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="1&lt;span style=&quot;background-color: transparent;&quot;&gt;铀乏燃料碱土&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="2170" as="geometry" />
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-54" edge="1" parent="1" source="16Y27A0EE9wOjFaD9LP5-53" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="16Y27A0EE9wOjFaD9LP5-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="2360" />
+              <mxPoint x="260" y="2200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="4氢氧化钠" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="2330" as="geometry" />
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="4硝酸钠溶液" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="2090" as="geometry" />
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-65" edge="1" parent="1" source="16Y27A0EE9wOjFaD9LP5-57" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="16Y27A0EE9wOjFaD9LP5-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="2200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-69" edge="1" parent="1" source="16Y27A0EE9wOjFaD9LP5-57" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="16Y27A0EE9wOjFaD9LP5-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="2200" />
+              <mxPoint x="700" y="2120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="1&lt;span style=&quot;background-color: transparent;&quot;&gt;铀乏燃料氧化物&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="2170" as="geometry" />
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-60" edge="1" parent="1" source="16Y27A0EE9wOjFaD9LP5-59" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="16Y27A0EE9wOjFaD9LP5-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="2400" />
+              <mxPoint x="460" y="2200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-67" edge="1" parent="1" source="16Y27A0EE9wOjFaD9LP5-59" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="16Y27A0EE9wOjFaD9LP5-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="2400" />
+              <mxPoint x="670" y="2200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#CCFF99,#CCFF99);strokeColor=#36393d;fontColor=light-dark(#000000,#000000);" value="电力高炉" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="2370" as="geometry" />
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="2水" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="2090" as="geometry" />
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-66" edge="1" parent="1" source="16Y27A0EE9wOjFaD9LP5-63" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="16Y27A0EE9wOjFaD9LP5-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="2360" />
+              <mxPoint x="660" y="2200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="2碳粉" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="2330" as="geometry" />
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-72" edge="1" parent="1" source="16Y27A0EE9wOjFaD9LP5-64" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="16Y27A0EE9wOjFaD9LP5-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="1&lt;span style=&quot;background-color: transparent;&quot;&gt;铀乏燃料&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;金属混合物&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="2170" as="geometry" />
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="2一氧化碳" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="2090" as="geometry" />
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-73" edge="1" parent="1" source="16Y27A0EE9wOjFaD9LP5-70" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="16Y27A0EE9wOjFaD9LP5-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="2280" />
+              <mxPoint x="860" y="2200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="离心机" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="2250" as="geometry" />
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="镓，锗，砷，&lt;div&gt;铷，锶，镉，&lt;/div&gt;&lt;div&gt;铟，锡，锑，&lt;/div&gt;&lt;div&gt;铯，钡&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="920" y="2170" as="geometry" />
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="&lt;div&gt;1锆铪氯化物&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-80" y="2250" as="geometry" />
+        </mxCell>
+        <mxCell id="16Y27A0EE9wOjFaD9LP5-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);" value="1&lt;span style=&quot;background-color: transparent;&quot;&gt;铌钽复合氧化物&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="2250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
